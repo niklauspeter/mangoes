@@ -1,0 +1,9 @@
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
+}
+.main{
+  float: left;
+  margin : 15px;
+}
